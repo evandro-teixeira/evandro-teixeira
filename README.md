@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 <!-- 
 <hr></hr> -->
-<p>**Desenvolvedor de Software | Desenvolvedor de Hardware | Desenvolvedor de Sistemas Embarcados **</p>
+Desenvolvedor de Software | Desenvolvedor de Hardware | Desenvolvedor de Sistemas Embarcados
 <!-- <p>**Software Developer | Hardware Developer | Embedded Developer **</p> -->
 <p></p>
 <hr></hr>
