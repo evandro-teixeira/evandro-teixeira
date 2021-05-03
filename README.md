@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-# [![Fabio souza Banner](https://raw.githubusercontent.com/evandro-teixeira/evandro-teixeira/main/Doc/banner.JPG)](#)
+# [![evandro-teixeira](https://raw.githubusercontent.com/evandro-teixeira/evandro-teixeira/main/Doc/banner.JPG)](#)
 
 
 ### Evandro Teixeira
@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <p></p>
 <hr></hr>
 
-## COMPETÊNCIAS TÉCNICAS
+## Competências Têcnicas
+
 
 * Experiência em desenvolvimento de projetos com sistema embarcados;
 * Domínio de todo o processo de desenvolvimento, desde a elaboração do requisito do projeto,
@@ -48,8 +49,9 @@ Instruments), S08, ColdFire, Kinetis ARM Cortex M0/M4 (NXP/Freescale), STM32F0 e
 (STMicroelectronics);
 * Conhecimento em AUTOSAR (AUTomotive Open System ARchitecture) .
 
-<hr></hr> 
+<hr></hr>
+
 ## Artigos Publicados
-<p></p>
+
 * [Embarcados](https://www.embarcados.com.br/autor/evandrolstgmail-com/)
 * [Filipeflop](https://www.filipeflop.com/blog/author/evandrolstgmail-com/)
