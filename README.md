@@ -55,3 +55,4 @@ Instruments), S08, ColdFire, Kinetis ARM Cortex M0/M4 (NXP/Freescale), STM32F0 e
 
 * [Embarcados](https://www.embarcados.com.br/autor/evandrolstgmail-com/)
 * [Filipeflop](https://www.filipeflop.com/blog/author/evandrolstgmail-com/)
+* [Blog Eletrogate](https://blog.eletrogate.com/?s=evandro)
